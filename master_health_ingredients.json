@@ -1,0 +1,121 @@
+{
+    "patient_profile": {
+        "name": "Michael Johnson",
+        "age": 29,
+        "gender": "Male",
+        "patient_id": "345678"
+    },
+    "medical_report": {
+        "source_metadata": {
+            "input_type": "text",
+            "file_name": "target_file.txt",
+            "capture_date": null
+        },
+        "patient_profile": {
+            "name": "Michael Johnson",
+            "age": 29,
+            "gender": "Male",
+            "patient_id": "345678"
+        },
+        "encounter_info": {
+            "report_date": "2024-09-04",
+            "facility_name": null,
+            "doctor_name": null,
+            "department": null,
+            "report_type": "clinical_note"
+        },
+        "symptoms": [
+            "sudden episodes of intense chest pain",
+            "heart palpitations",
+            "shortness of breath",
+            "dizziness",
+            "sweating",
+            "feeling of impending doom",
+            "fear of having a heart attack"
+        ],
+        "diagnoses": {
+            "primary": [],
+            "secondary": [
+                "Anxiety",
+                "Gastroesophageal Reflux Disease (GERD)"
+            ]
+        },
+        "allergies": {
+            "medications": [],
+            "food": [],
+            "environmental": [],
+            "unknown_reported": false
+        },
+        "medications_current": [
+            "Lorazepam (0.5 mg as needed for anxiety)",
+            "Omeprazole (20 mg daily)"
+        ],
+        "lab_results": [
+            "Electrocardiogram (ECG): Normal sinus rhythm; no signs of ischemia or arrhythmia detected",
+            "Cardiac enzymes (troponin, CK-MB): within normal limits",
+            "Thyroid function tests: normal",
+            "Holter Monitor (24-hour monitoring): No significant arrhythmias; occasional premature ventricular contractions (PVCs) noted"
+        ],
+        "findings": {
+            "physical_exam": [
+                "Blood pressure 122/78 mmHg",
+                "Heart rate 82 bpm",
+                "BMI 23.4",
+                "Normal heart sounds; no murmurs, gallops, or rubs",
+                "Clear breath sounds; no wheezing or crackles"
+            ],
+            "imaging_summary": [
+                "Echocardiogram: Normal cardiac structure and function; ejection fraction 60%"
+            ],
+            "doctor_notes": [
+                "Episodes typically last for about 10-20 minutes",
+                "Occur without warning, usually once or twice a week",
+                "Symptoms occurring over the past three months"
+            ]
+        },
+        "lifestyle_and_risk": {
+            "habits": [
+                "Works in a high-stress job as an investment banker",
+                "Occasional use of caffeine",
+                "Occasional use of alcohol",
+                "Exercises irregularly"
+            ],
+            "dietary_notes": [
+                "Managed with dietary changes"
+            ],
+            "risk_factors": [
+                "Family history: Mother has generalized anxiety disorder"
+            ]
+        },
+        "recommendations": {
+            "follow_up": null,
+            "next_appointment": null,
+            "suggested_labs": [],
+            "referrals": []
+        },
+        "system_generated": {
+            "confidence_score": 0.98,
+            "processing_notes": "Extracted from structured clinical case report text."
+        },
+        "last_updated": "2025-12-28T15:16:06.466423"
+    },
+    "ingredients_profile": {
+        "last_updated": "2025-12-28",
+        "items": []
+    },
+    "compatibility_summary": {
+        "safe_items": [],
+        "risky_items": [],
+        "avoid_items": [],
+        "expiry_alerts": [],
+        "medication_interaction_warnings": [],
+        "notes": "Generated based on conditions + allergies + medications + food rules."
+    },
+    "nutrition_coach": {
+        "daily_meal_recommendations": [
+            "Maintain a balanced plate: veggies + lean protein + whole grains"
+        ],
+        "foods_to_avoid_today": [],
+        "safe_substitutes": []
+    }
+}

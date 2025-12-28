@@ -1,0 +1,184 @@
+{
+  "fridge_scans": [
+    {
+      "identified_items": [
+        {
+          "item_name": "Mint",
+          "category": "vegetable",
+          "specific_type": "fresh herb",
+          "confidence": "high",
+          "label_text_detected": "null"
+        },
+        {
+          "item_name": "Half & Half",
+          "category": "dairy",
+          "specific_type": "Horizon Organic Half & Half",
+          "confidence": "high",
+          "label_text_detected": "Horizon Organic HALF & HALF"
+        },
+        {
+          "item_name": "Kombucha",
+          "category": "beverage",
+          "specific_type": "Health-Ade Ginger-Lemon Kombucha",
+          "confidence": "high",
+          "label_text_detected": "HEALTH-ADE KOMBUCHA GINGER-LEMON"
+        },
+        {
+          "item_name": "Orange Juice",
+          "category": "beverage",
+          "specific_type": "unknown",
+          "confidence": "high",
+          "label_text_detected": "ALL NATURAL"
+        },
+        {
+          "item_name": "Almond Milk",
+          "category": "beverage",
+          "specific_type": "unknown brand almond milk",
+          "confidence": "high",
+          "label_text_detected": "ALM"
+        },
+        {
+          "item_name": "Beverage",
+          "category": "beverage",
+          "specific_type": "unknown",
+          "confidence": "low",
+          "label_text_detected": "BRONKS"
+        },
+        {
+          "item_name": "Whole Milk",
+          "category": "dairy",
+          "specific_type": "Horizon Organic DHA Omega-3 Whole Milk",
+          "confidence": "high",
+          "label_text_detected": "Horizon Organic DHA OMEGA-3 ORGANIC WHOLE MILK"
+        },
+        {
+          "item_name": "Grapes",
+          "category": "fruit",
+          "specific_type": "green grapes",
+          "confidence": "high",
+          "label_text_detected": "null"
+        },
+        {
+          "item_name": "Sparkling Energy Drink",
+          "category": "beverage",
+          "specific_type": "Rambler Coconut Lime Sparkling Energy",
+          "confidence": "high",
+          "label_text_detected": "Rambler SPARKLING ENERGY Coconut Lime"
+        },
+        {
+          "item_name": "Sparkling Beverage",
+          "category": "beverage",
+          "specific_type": "Ginger Peach flavored sparkling beverage",
+          "confidence": "high",
+          "label_text_detected": "Ginger Peach"
+        },
+        {
+          "item_name": "Sparkling Beverage",
+          "category": "beverage",
+          "specific_type": "Cucumber Lime flavored sparkling beverage",
+          "confidence": "high",
+          "label_text_detected": "Cucumber Lime"
+        },
+        {
+          "item_name": "Eggs",
+          "category": "dairy",
+          "specific_type": "chicken eggs",
+          "confidence": "high",
+          "label_text_detected": "null"
+        },
+        {
+          "item_name": "Blueberries",
+          "category": "fruit",
+          "specific_type": "fresh blueberries",
+          "confidence": "high",
+          "label_text_detected": "null"
+        },
+        {
+          "item_name": "Apples",
+          "category": "fruit",
+          "specific_type": "fresh apples",
+          "confidence": "high",
+          "label_text_detected": "null"
+        },
+        {
+          "item_name": "Avocados",
+          "category": "fruit",
+          "specific_type": "fresh avocados",
+          "confidence": "high",
+          "label_text_detected": "null"
+        },
+        {
+          "item_name": "Cherries",
+          "category": "fruit",
+          "specific_type": "fresh cherries",
+          "confidence": "high",
+          "label_text_detected": "null"
+        },
+        {
+          "item_name": "Prepared food",
+          "category": "unknown",
+          "specific_type": "unknown",
+          "confidence": "low",
+          "label_text_detected": "null"
+        },
+        {
+          "item_name": "Green Sauce",
+          "category": "pantry",
+          "specific_type": "unknown",
+          "confidence": "medium",
+          "label_text_detected": "null"
+        },
+        {
+          "item_name": "Sour Cream",
+          "category": "dairy",
+          "specific_type": "Daisy Pure & Natural Sour Cream",
+          "confidence": "high",
+          "label_text_detected": "Daisy SOUR CREAM Pure & Natural"
+        },
+        {
+          "item_name": "Miso Paste",
+          "category": "pantry",
+          "specific_type": "Miso Master Organic White Miso",
+          "confidence": "high",
+          "label_text_detected": "MISO MASTER ORGANIC White Miso"
+        },
+        {
+          "item_name": "Yogurt",
+          "category": "dairy",
+          "specific_type": "go-gurt yogurt tubes",
+          "confidence": "high",
+          "label_text_detected": "go-gurt"
+        },
+        {
+          "item_name": "Yogurt",
+          "category": "dairy",
+          "specific_type": "Chobani yogurt",
+          "confidence": "high",
+          "label_text_detected": "Chobani"
+        },
+        {
+          "item_name": "Mandarins",
+          "category": "fruit",
+          "specific_type": "fresh mandarins",
+          "confidence": "high",
+          "label_text_detected": "null"
+        },
+        {
+          "item_name": "Prepared fruit",
+          "category": "fruit",
+          "specific_type": "unknown",
+          "confidence": "low",
+          "label_text_detected": "null"
+        },
+        {
+          "item_name": "Sliced vegetables",
+          "category": "vegetable",
+          "specific_type": "unknown",
+          "confidence": "low",
+          "label_text_detected": "null"
+        }
+      ],
+      "notes": "Most items identified with high confidence based on clear visibility and label text, with a few prepared items and bottle contents having low or medium confidence."
+    }
+  ]
+}

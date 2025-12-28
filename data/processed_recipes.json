@@ -1,0 +1,5473 @@
+[
+    {
+        "name": "Balu shahi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Maida flour",
+            "yogurt",
+            "oil",
+            "sugar"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 45,
+        "cook_time": 25,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Boondi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Gram flour",
+            "ghee",
+            "sugar"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 80,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Gajar ka halwa",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Carrots",
+            "milk",
+            "sugar",
+            "ghee",
+            "cashews",
+            "raisins"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 15,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Ghevar",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Flour",
+            "ghee",
+            "kewra",
+            "milk",
+            "clarified butter",
+            "sugar",
+            "almonds",
+            "pistachio",
+            "saffron",
+            "green cardamom"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 15,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Gulab jamun",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Milk powder",
+            "plain flour",
+            "baking powder",
+            "ghee",
+            "milk",
+            "sugar",
+            "water",
+            "rose water"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 15,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Imarti",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Sugar syrup",
+            "lentil flour"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 50,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Jalebi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Maida",
+            "corn flour",
+            "baking soda",
+            "vinegar",
+            "curd",
+            "water",
+            "turmeric",
+            "saffron",
+            "cardamom"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 50,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kaju katli",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Cashews",
+            "ghee",
+            "cardamom",
+            "sugar"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kalakand",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Milk",
+            "cottage cheese",
+            "sugar"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kheer",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Milk",
+            "rice",
+            "sugar",
+            "dried fruits"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Laddu",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Gram flour",
+            "ghee",
+            "sugar"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Lassi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Yogurt",
+            "milk",
+            "nuts",
+            "sugar"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 5,
+        "cook_time": 5,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Nankhatai",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Refined flour",
+            "besan",
+            "ghee",
+            "powdered sugar",
+            "yoghurt",
+            "green cardamom"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Petha",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Firm white pumpkin",
+            "sugar",
+            "kitchen lime",
+            "alum powder"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Phirni",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice",
+            "sugar",
+            "nuts"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 30,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Rabri",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Condensed milk",
+            "sugar",
+            "spices",
+            "nuts"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 45,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Sheera",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Semolina",
+            "ghee",
+            "nuts",
+            "milk"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 25,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Singori",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Khoa",
+            "coconut",
+            "molu leaf"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Sohan halwa",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Corn flour",
+            "ghee",
+            "dry fruits"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Sohan papdi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Gram flour",
+            "ghee",
+            "sugar",
+            "milk",
+            "cardamom"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Chhena jalebi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chhena",
+            "sugar",
+            "ghee"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 50,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Chhena kheeri",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chhena",
+            "sugar",
+            "milk"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Chhena poda",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Sugar",
+            "chenna cheese"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 45,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Cham cham",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Flour",
+            "cream",
+            "sugar",
+            "saffron",
+            "lemon juice",
+            "coconut flakes"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 40,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kheer sagar",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chenna",
+            "condensed milk",
+            "sugar",
+            "saffron",
+            "cardamom"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 25,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Ledikeni",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chhena",
+            "sugar",
+            "ghee"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 45,
+        "cook_time": 45,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Lyangcha",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Flour",
+            "fried milk power",
+            "sugar syrup"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Malapua",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Yoghurt",
+            "refined flour",
+            "ghee",
+            "fennel seeds"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 120,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Mihidana",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Besan flour",
+            "sugar",
+            "ghee"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 15,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Misti doi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Milk",
+            "jaggery"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 480,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Pantua",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chhena",
+            "sugar",
+            "ghee",
+            "flour"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 45,
+        "cook_time": 45,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Pithe",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice flour",
+            "wheat flour"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 15,
+        "cook_time": 35,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Rasabali",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chenna",
+            "sweetened milk"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 15,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Ras malai",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chhena",
+            "reduced milk",
+            "pistachio"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 180,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Rasgulla",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chhena",
+            "sugar",
+            "cardamom"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 90,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Sandesh",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Milk",
+            "sugar",
+            "saffron",
+            "cardamom"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 30,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Adhirasam",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice flour",
+            "jaggery",
+            "ghee",
+            "vegetable oil",
+            "elachi"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 50,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Ariselu",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice flour",
+            "jaggery",
+            "ghee"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 15,
+        "cook_time": 75,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Bandar laddu",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Besan",
+            "jaggery",
+            "cardamom powder",
+            "ghee",
+            "cashews and raisins",
+            "jaggery syrup",
+            "sugar"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 5,
+        "cook_time": 35,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Chikki",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Peanuts",
+            "jaggery"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Dharwad pedha",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Milk",
+            "Sugar",
+            "Dharwadi buffalo milk"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Double ka meetha",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Loaf bread",
+            "milk"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Gavvalu",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice flour",
+            "sugar",
+            "salt",
+            "ghee",
+            "semolina"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kakinada khaja",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Wheat flour",
+            "sugar"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kuzhi paniyaram",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Black lentils",
+            "rice"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Mysore pak",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Besan flour",
+            "semolina",
+            "mung bean",
+            "jaggery",
+            "coconut",
+            "skimmed milk powder",
+            "sugar",
+            "ghee"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 5,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Obbattu holige",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Maida flour",
+            "turmeric",
+            "coconut",
+            "chickpeas",
+            "jaggery",
+            "ghee",
+            "cardamom"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 180,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Palathalikalu",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice flour",
+            "milk"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 25,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Poornalu",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chana dal",
+            "jaggery"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 240,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Pongal",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice",
+            "jaggery",
+            "cashews",
+            "ghee"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 5,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Pootharekulu",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice flour",
+            "powdered sugar",
+            "ghee"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Qubani ka meetha",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Apricots",
+            "sugar syrup"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Sheer korma",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Vermicelli pudding",
+            "milk"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Unni Appam",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice flour",
+            "banana",
+            "jaggery",
+            "coconut"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kajjikaya",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice flour",
+            "jaggery",
+            "coconut"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 40,
+        "cook_time": 15,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Anarsa",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice flour",
+            "jaggery",
+            "khus-khus seeds"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 50,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Basundi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Sugar",
+            "milk",
+            "nuts"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 35,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Dhondas",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Cucumber",
+            "rava"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 50,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Doodhpak",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Milk",
+            "rice",
+            "sugar",
+            "dry fruits"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Mahim halwa",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Semolina",
+            "sugar"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 25,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Modak",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice flour",
+            "coconut",
+            "jaggery"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 15,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Shankarpali",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Sugar",
+            "ghee",
+            "maida flour",
+            "semolina"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 35,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Shrikhand",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Curd",
+            "sugar",
+            "saffron",
+            "cardamom"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 720,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Sutar feni",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Maida",
+            "sugar",
+            "ghee"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 15,
+        "cook_time": 55,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Maach Jhol",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Fish",
+            "potol",
+            "tomato",
+            "chillies",
+            "ginger",
+            "garlic"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": 10,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Pork Bharta",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Boiled pork",
+            "onions",
+            "chillies",
+            "ginger and garlic"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Chak Hao Kheer",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice",
+            "milk",
+            "sugar",
+            "cardamom"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 240,
+        "cook_time": 45,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Galho",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice",
+            "axone",
+            "salt",
+            "water",
+            "chillies",
+            "pork"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": 5,
+        "cook_time": 15,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Aloo gobi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Cauliflower",
+            "potato",
+            "garam masala",
+            "turmeric",
+            "curry leaves"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Aloo tikki",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice flour",
+            "potato",
+            "bread crumbs",
+            "garam masala",
+            "salt"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 5,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Aloo matar",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Potato",
+            "peas",
+            "chillies",
+            "ginger",
+            "garam masala",
+            "garlic"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 5,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Aloo methi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Potato",
+            "fenugreek leaves",
+            "chillies",
+            "salt",
+            "oil"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Aloo shimla mirch",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Potato",
+            "shimla mirch",
+            "garam masala",
+            "amchur powder",
+            "salt"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Bhatura",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chole",
+            "rava",
+            "yogurt",
+            "plain flour",
+            "baking soda"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Bhindi masala",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Ladies finger",
+            "garam masala",
+            "kasuri methi",
+            "tomatoes",
+            "chili powder"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Biryani",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chicken thighs",
+            "basmati rice",
+            "star anise",
+            "sweet",
+            "green chillies"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": 30,
+        "cook_time": 120,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Butter chicken",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chicken",
+            "greek yogurt",
+            "cream",
+            "garam masala powder",
+            "cashew nuts",
+            "butter"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": 10,
+        "cook_time": 35,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Chana masala",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chickpeas",
+            "tomato paste",
+            "garam masala",
+            "ginger",
+            "red onion",
+            "avocado oil"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Chapati",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Whole wheat flour",
+            "olive oil",
+            "hot water",
+            "all purpose flour"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 10,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Chicken razala",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chicken",
+            "dahi",
+            "sesame seeds",
+            "garam masala powder",
+            "cashew nuts",
+            "saffron"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": 10,
+        "cook_time": 35,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Chicken Tikka masala",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Naan bread",
+            "tomato sauce",
+            "skinless chicken breasts",
+            "heavy cream",
+            "garam masala"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": 10,
+        "cook_time": 50,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Chicken Tikka",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chicken",
+            "whole wheat bread",
+            "rice flour",
+            "garam masala powder",
+            "whole egg"
+        ],
+        "course": "starter",
+        "diet": "non vegetarian",
+        "prep_time": 120,
+        "cook_time": 45,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Chole bhature",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chole",
+            "bhatura",
+            "garam masala",
+            "bay leaf",
+            "cinnamon stick"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Daal baati churma",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Moong dal",
+            "masoor dal",
+            "chana dal",
+            "wheat flour",
+            "almond"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 90,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Daal puri",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Moong dal",
+            "garam masala powder",
+            "garlic",
+            "green chilli",
+            "all purpose flour"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 30,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Dal makhani",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Red kidney beans",
+            "urad dal",
+            "cream",
+            "garam masala",
+            "chili powder"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Dal tadka",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Pigeon peas",
+            "garam masala",
+            "ginger",
+            "red onion",
+            "kasuri methi"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Dum aloo",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Baby potatoes",
+            "garam masala",
+            "cashew nuts",
+            "kasuri methi",
+            "tomatoes"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 50,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Poha",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Beaten rice flakes",
+            "potato",
+            "curry leaves",
+            "green chilies",
+            "lemon juice"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Fara",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chana dal",
+            "whole wheat flour",
+            "arhar dal",
+            "white urad dal",
+            "garam masala powder"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kachori",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Moong dal",
+            "rava",
+            "garam masala",
+            "dough",
+            "fennel seeds"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 30,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kadai paneer",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Cottage cheese",
+            "bell peppers",
+            "gravy",
+            "garam masala",
+            "cashew nuts"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kadhi pakoda",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Besan",
+            "garam masala powder",
+            "gram flour",
+            "ginger",
+            "curry leaves"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Karela bharta",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Bitter gourd",
+            "fennel",
+            "garam masala powder",
+            "chili powder",
+            "amchur powder"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 50,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Khichdi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Moong dal",
+            "green peas",
+            "ginger",
+            "tomato",
+            "green chili"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 40,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kofta",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Paneer",
+            "potato",
+            "cream",
+            "corn flour",
+            "garam masala"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kulfi falooda",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rose syrup",
+            "falooda sev",
+            "mixed nuts",
+            "saffron",
+            "sugar"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 45,
+        "cook_time": 25,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Lauki ke kofte",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Bottle gourd",
+            "garam masala powder",
+            "gram flour",
+            "ginger",
+            "chillies"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Lauki ki subji",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Bottle gourd",
+            "coconut oil",
+            "garam masala",
+            "ginger",
+            "green chillies"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Litti chokha",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Wheat flour",
+            "roasted gram flour",
+            "tomato",
+            "nigella seeds",
+            "chilli"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 45,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Makki di roti sarson da saag",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Palak",
+            "makki atta",
+            "mustard green",
+            "garam masala",
+            "ginger"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 25,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Misi roti",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Whole wheat flour",
+            "chickpea flour",
+            "green chilies"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 30,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Mushroom do pyaza",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Mushroom",
+            "malai",
+            "garam masala",
+            "ginger",
+            "capsicum"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Mushroom matar",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Canned coconut milk",
+            "frozen green peas",
+            "wild mushrooms",
+            "garam masala",
+            "tomatoes"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Naan",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Whole wheat flour",
+            "honey",
+            "butter",
+            "garlic"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 60,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Navrattan korma",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Green beans",
+            "potatoes",
+            "khus khus",
+            "low fat",
+            "garam masala powder"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 25,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Palak paneer",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Cottage cheese",
+            "palak",
+            "cream",
+            "garam masala",
+            "butter"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Paneer butter masala",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Paneer",
+            "whipping cream",
+            "garam masala",
+            "cashew nuts",
+            "butter"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Paneer tikka masala",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Paneer",
+            "greek yogurt",
+            "tandoori masala",
+            "cream",
+            "bell pepper"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Pani puri",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Kala chana",
+            "mashed potato",
+            "boondi",
+            "sev",
+            "lemon"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 15,
+        "cook_time": 2,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Panjeeri",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Whole wheat flour",
+            "musk melon seeds",
+            "poppy seeds",
+            "edible gum",
+            "semolina"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 25,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Papad",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Urad dal",
+            "sev",
+            "lemon juice",
+            "chopped tomatoes"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 5,
+        "cook_time": 5,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Paratha",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Wheat flour",
+            "butter",
+            "potato",
+            "coriander"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 15,
+        "cook_time": 45,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Pattor",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Arbi ke patte",
+            "sesame seeds",
+            "gur",
+            "bengal gram flour",
+            "imli"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Pindi chana",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Fennel",
+            "tea bags",
+            "tomato",
+            "kasuri methi",
+            "cinnamon"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 500,
+        "cook_time": 120,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Rajma chaval",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Red kidney beans",
+            "garam masala powder",
+            "ginger",
+            "tomato",
+            "mustard oil"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 15,
+        "cook_time": 90,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Rongi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Garam masala powder",
+            "tomato",
+            "kasuri methi",
+            "cinnamon",
+            "mustard oil"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Samosa",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Potatoes",
+            "green peas",
+            "garam masala",
+            "ginger",
+            "dough"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 30,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Sattu ki roti",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Sattu",
+            "atta",
+            "dough",
+            "filling",
+            "mustard oil"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Shahi paneer",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Cottage cheese",
+            "malai",
+            "garam masala",
+            "ginger",
+            "tomato"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Shahi tukra",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rose water",
+            "milk",
+            "white bread slices",
+            "saffron",
+            "almonds"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Vegetable jalfrezi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Baby corn",
+            "french beans",
+            "garam masala",
+            "ginger",
+            "carrot"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Tandoori Chicken",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Greek yogurt",
+            "garam masala",
+            "kasuri methi",
+            "marinade",
+            "mustard oil"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": 240,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Tandoori Fish Tikka",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chickpea flour",
+            "biryani masala powder",
+            "yogurt",
+            "fish fillets",
+            "green bell pepper"
+        ],
+        "course": "starter",
+        "diet": "non vegetarian",
+        "prep_time": 240,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Attu",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Whole wheat flour",
+            "arhar dal",
+            "ginger",
+            "kala jeera",
+            "green chilli"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 150,
+        "cook_time": 25,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Avial",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Raw banana",
+            "elephant foot yam",
+            "long beans",
+            "tindora",
+            "urad dal"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 30,
+        "cook_time": 45,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Bisi bele bath",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Split pigeon peas",
+            "chana dal",
+            "urad dal",
+            "green peas",
+            "french beans"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 30,
+        "cook_time": 45,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Currivepillai sadam",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chana dal",
+            "urad dal",
+            "fresh coconut",
+            "sesame seeds",
+            "curry leaves"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Dosa",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chana dal",
+            "urad dal",
+            "whole urad dal",
+            "blend rice",
+            "rock salt"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 360,
+        "cook_time": 90,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Idiappam",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice flour",
+            "hot water",
+            "grated coconut"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 120,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Idli",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Split urad dal",
+            "urad dal",
+            "idli rice",
+            "thick poha",
+            "rock salt"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 360,
+        "cook_time": 90,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kanji",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Carrot",
+            "yellow mustard",
+            "red chilli",
+            "black salt"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 45,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kaara kozhambu",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Sesame oil",
+            "drumstick",
+            "tamarind paste",
+            "sambar powder",
+            "tomato"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Keerai kootu",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Moong dal",
+            "chana dal",
+            "spinach",
+            "urad dal",
+            "coconut oil"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Keerai masiyal",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Urad dal",
+            "curry leaves",
+            "sugar",
+            "mustard seeds",
+            "spinach"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Keerai sadam",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Greens",
+            "tomato",
+            "mustard seeds",
+            "fenugreek seeds"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Keerai poriyal",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Amaranth leaves",
+            "split urad dal",
+            "mustard seeds",
+            "grated coconut",
+            "red chili"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Beef Fry",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Beef",
+            "coconut",
+            "garam masala",
+            "curry leaves",
+            "green chilies",
+            "chili powder"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": 10,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kootu",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chana dal",
+            "urad dal",
+            "potato",
+            "beans",
+            "peas"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 15,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kos kootu",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Moong dal",
+            "chana dal",
+            "cabbage",
+            "tamarind",
+            "curry leaves"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Koshambri",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Moong dal",
+            "cucumber",
+            "curry leaves",
+            "green chili",
+            "lemon juice"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kothamali sadam",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chana dal",
+            "urad dal",
+            "gooseberry",
+            "raw rice",
+            "curry leaves"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kuzhakkattai",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Sesame oil",
+            "raw rice",
+            "jaggery",
+            "grated coconut"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 90,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kuzhambu",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Pearl onions",
+            "urad dal",
+            "drumsticks",
+            "tomato",
+            "curry leaves"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 5,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Masala Dosa",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chana dal",
+            "urad dal",
+            "potatoes",
+            "idli rice",
+            "thick poha"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 360,
+        "cook_time": 90,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Pachadi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Coconut oil",
+            "cucumber",
+            "curd",
+            "curry leaves",
+            "mustard seeds"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 25,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Paniyaram",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Yogurt",
+            "ginger",
+            "curry leaves",
+            "baking soda",
+            "green chilli"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Papadum",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Lentils",
+            "black pepper",
+            "vegetable oil"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 5,
+        "cook_time": 5,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Paravannam",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Raw rice",
+            " jaggery",
+            "milk"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Payasam",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice",
+            "cashew nuts",
+            "milk",
+            "raisins",
+            "sugar"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 15,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Paruppu sadam",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Arhar dal",
+            "sambar powder",
+            "tomato",
+            "curry leaves",
+            "fennel seeds"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Pesarattu",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Green moong beans",
+            "rice flour"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 120,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Poriyal",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chana dal",
+            "urad dal",
+            "beans",
+            "coconut",
+            "mustard"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Puli sadam",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Urad dal",
+            "lemon",
+            "tamarind",
+            "cooked rice",
+            "curry leaves"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Rasam",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Tomato",
+            "curry leaves",
+            "garlic",
+            "mustard seeds",
+            "hot water"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 35,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Puttu",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Brown rice flour",
+            "sugar",
+            "grated coconut"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 495,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Sambar",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Pigeon peas",
+            "eggplant",
+            "drumsticks",
+            "sambar powder",
+            "tamarind"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 45,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Sandige",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Thin rice flakes",
+            "black sesame seeds",
+            "curry leaves"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 120,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Sevai",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Sevai",
+            "parboiled rice",
+            "steamer"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 120,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Thayir sadam",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Urad dal",
+            "curd",
+            "sesame oil",
+            "ginger",
+            "curry leaves",
+            "mustard seeds"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Theeyal",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Coconut",
+            "whole red beans",
+            "masala",
+            "sesame oil",
+            "tamarind"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 15,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Uttapam",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chana dal",
+            "urad dal",
+            "thick poha",
+            "tomato",
+            "butter"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Vada",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Urad dal",
+            "ginger",
+            "curry leaves",
+            "green chilies",
+            "black pepper"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 15,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Chicken Varuval",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Meat curry powder",
+            "chicken chunks",
+            "ginger",
+            "tomato",
+            "cinnamon"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": 10,
+        "cook_time": 35,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Upma",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chana dal",
+            "urad dal",
+            "ginger",
+            "curry leaves",
+            "sugar"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Amti",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Kala masala",
+            "arhar dal",
+            "curry leaves",
+            "mustard seeds",
+            "hot water"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 45,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Zunka",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Gram flour",
+            "mustard",
+            "garlic",
+            "turmeric",
+            "red chilli"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 25,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kolim Jawla",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Baingan",
+            "fish",
+            "coconut oil",
+            "fresh coconut",
+            "ginger"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Saath",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Urad dal",
+            "potatoes",
+            "wheat flour",
+            "sooji"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Bajri no rotlo",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Wheat flour",
+            "pearl millet flour",
+            "hot water"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 10,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Coconut vadi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Condensed milk",
+            "mawa",
+            "desiccated coconut",
+            "almonds",
+            "cashews"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Bhakri",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Jowar flour",
+            "sesame seeds"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 25,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Bombil fry",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Bombay duck",
+            "malvani masala",
+            "rice flour",
+            "bombay rava",
+            "green chilies"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Chakali",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice flour",
+            "sesame",
+            "plain flour",
+            "turmeric",
+            "red chilli"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Chevdo",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Citric acid",
+            "fry",
+            "raisins",
+            "sugar",
+            "chana daal"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Chorafali",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Urad dal",
+            "bengal gram flour",
+            "dried mango",
+            "baking soda",
+            "black salt"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 5,
+        "cook_time": 15,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Copra paak",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Condensed milk",
+            "nestle cream",
+            "coconut ice",
+            "red food coloring",
+            "desiccated coconut"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Daal Dhokli",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Whole wheat flour",
+            "dal",
+            "kokum",
+            "gur",
+            "bengal gram flour"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kutchi dabeli",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Pav",
+            "aloo",
+            "peanut",
+            "pomegranate",
+            "star anise"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 30,
+        "cook_time": 10,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Dahi vada",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Urad dal",
+            "bhuna chana",
+            "garam masala",
+            "dates",
+            "tamarind"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 30,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Dalithoy",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Arhar dal",
+            "coconut oil",
+            "curry leaves",
+            "mustard seeds",
+            "red chilli"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 5,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Dhokla",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rava",
+            "coconut",
+            "gram flour",
+            "mustard",
+            "sesame"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Dudhi halwa",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Bottle gourd",
+            "green",
+            "raisins",
+            "sugar",
+            "clarified butter"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 15,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Gatta curry",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Yogurt",
+            "besan",
+            "sauce",
+            "garam masala powder",
+            "gram flour"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Gud papdi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Wheat flour",
+            "jaggery",
+            "clarified butter",
+            "sliced almonds"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Ghooghra",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Dry fruits",
+            "semolina",
+            "all purpose flour"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Handwo",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Bottle gourd",
+            "chana dal",
+            "cabbage",
+            "urad dal",
+            "toor dal"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Halvasan",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Whole wheat rava",
+            "chia seed",
+            "lemon",
+            "edible gum",
+            "litre milk"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Jeera Aloo",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Green chilies",
+            "lemon juice",
+            "chili powder",
+            "boiled potatoes"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kansar",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Wheat flour",
+            "cashews",
+            "rapeseed oil"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Keri no ras",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Mango",
+            "sugar"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 10,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Khakhra",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Whole wheat flour",
+            "low fat",
+            "bengal gram flour"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Khandvi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Green chili paste",
+            "white sesame seeds",
+            "gram flour",
+            "curry leaves",
+            "green chili"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 45,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kombdi vade",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice flour",
+            "urad dal",
+            "wheat flour",
+            "gram flour",
+            "turmeric"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 25,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Laapsi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Cinnamon",
+            "jaggery",
+            "clarified butter",
+            "dry roasted"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Koshimbir",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Cucumber",
+            "carrot",
+            "tomatoes",
+            "cilantro"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 10,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Methi na Gota",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rava",
+            "gram flour",
+            "lemon juice",
+            "turmeric",
+            "fenugreek leaves"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 15,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Mohanthal",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rose water",
+            "pistachio",
+            "badam",
+            "bengal gram flour",
+            "saffron"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 5,
+        "cook_time": 45,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Muthiya",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Bottle gourd",
+            "whole wheat flour",
+            "rava",
+            "sesame seeds",
+            "bengal gram flour"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 15,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Patra",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Arbi ke patte",
+            "sesame seeds",
+            "gur",
+            "bengal gram flour",
+            "imli"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Pav Bhaji",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Pav bhaji masala",
+            "gobi",
+            "potatoes",
+            "green peas",
+            "dinner rolls"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Puri Bhaji",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Aloo",
+            "urad dal",
+            "mustard",
+            "ginger",
+            "curry leaves"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Sabudana Khichadi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Raw peanuts",
+            "sabudana",
+            "lemon",
+            "avocado oil",
+            "curry leaves",
+            "green chili"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 70,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Sev khamani",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Khaman",
+            "pomegranate",
+            "sev",
+            "powdered sugar",
+            "garlic"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Sev tameta",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Sev",
+            "ginger",
+            "tomato",
+            "sugar"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Namakpara",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Wheat flour",
+            "baking soda",
+            "all purpose flour",
+            "black pepper",
+            "sunflower oil"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 35,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Sukhdi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Whole wheat flour",
+            "gur",
+            "clarified butter"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Surnoli",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice flakes",
+            "yogurt",
+            "raw rice",
+            "jaggery",
+            "grated coconut"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 60,
+        "cook_time": 10,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Thalipeeth",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Whole wheat flour",
+            "rice flour",
+            "pearl millet flour",
+            "sorghum flour",
+            "sesame seeds"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 25,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Undhiyu",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Sweet potato",
+            "surti papdi",
+            "baby potatoes",
+            "valor papdi",
+            "green peas"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 25,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Veg Kolhapuri",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Gobi",
+            "potato",
+            "beans",
+            "khus khus",
+            "coconut"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Vindaloo",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chicken",
+            "coconut oil",
+            "wine vinegar",
+            "ginger",
+            "green",
+            "cinnamon"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": 10,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Lilva Kachori",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Green garlic chutney",
+            "fresh green peas",
+            "ginger",
+            "lemon juice",
+            "plain flour"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 30,
+        "cook_time": 6,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Mag Dhokli",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Moong beans",
+            "jaggery",
+            "red chillies",
+            "oil",
+            "salt"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Khichu",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice flour",
+            "sesame seeds",
+            "baking soda",
+            "peanut oil"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 5,
+        "cook_time": 10,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Thepla",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chickpea flour",
+            "methi leaves",
+            "jowar flour",
+            "wheat flour"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 15,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Farsi Puri",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Semolina",
+            "clarified butter",
+            "oil",
+            "white flour",
+            "black pepper"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Khaman",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Yogurt",
+            "fresh coconut",
+            "sesame seeds",
+            "semolina",
+            "gram flour"
+        ],
+        "course": "snack",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Turiya Patra Vatana sabji",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Ridge gourd",
+            "baking soda",
+            "sugar",
+            "grated coconut",
+            "peas"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 35,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Churma Ladoo",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Whole wheat flour",
+            "khus khus",
+            "sesame seeds",
+            "dry coconut",
+            "gur"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 12,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Cheera Doi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice",
+            "mango",
+            "curd"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Gheela Pitha",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Sticky rice",
+            "rice flour",
+            "jaggery",
+            "orange rind"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Khar",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Raw papaya",
+            "panch phoran masala",
+            "nigella seeds",
+            "mustard oil",
+            "fennel seeds"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kumol Sawul",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice",
+            "eggs",
+            "carrot",
+            "beetroot"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Luchi",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Maida",
+            "vegetable oil"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Alu Pitika",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Potatoes",
+            "mustard oil",
+            "fish",
+            "green chillies"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": 5,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Masor tenga",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Ridge gourd",
+            "fish",
+            "lemon",
+            "tomatoes",
+            "mustard oil"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": 15,
+        "cook_time": 25,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Bengena Pitika",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Brinjal",
+            "onions",
+            "salt",
+            "sesame seeds",
+            "coriander"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Bilahi Maas",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Potatoes",
+            "garam masala",
+            "tomatoes",
+            "mustard oil",
+            "bay leaf"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Black rice",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Forbidden black rice",
+            "chicken",
+            "olive oil",
+            "slivered almonds",
+            "garlic powder"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Bora Sawul",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Biryani masala",
+            "mixed vegetables",
+            "yellow moong daal",
+            "whole red",
+            "mustard seeds"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Brown Rice",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Brown rice",
+            "soy sauce",
+            "olive oil"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 15,
+        "cook_time": 25,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Chingri malai curry",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Coconut milk",
+            "lobster",
+            "fresh green chilli",
+            "ginger",
+            "red onion"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": 10,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Goja",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Baking soda",
+            "clarified butter",
+            "oil",
+            "all purpose flour"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Hando Guri",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Jaggery",
+            "raisins"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Haq Maas",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Lamb",
+            "garam masala powder",
+            "curd",
+            "turmeric",
+            "bay leaf"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": 20,
+        "cook_time": 40,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Chingri Bhape",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Coconut",
+            "prawns",
+            "curd",
+            "mustard seed",
+            "green chili"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": 15,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Kabiraji",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Fish fillet",
+            "besan",
+            "lemon",
+            "mint",
+            "ginger"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Khorisa",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Fermented bamboo shoot",
+            "potato",
+            "ginger",
+            "green",
+            "mustard oil"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Koldil Chicken",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Banana flower",
+            "chicken",
+            "green chili",
+            "mustard oil",
+            "lemon juice"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Konir Dom",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Aloo",
+            "tomatoes",
+            "mustard oil",
+            "bay leaf",
+            "cinnamon stick"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Koldil Duck",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Rice flour",
+            "mutton",
+            "banana",
+            "gram flour",
+            "olive oil",
+            "baking powder"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Masor Koni",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Fish roe",
+            "pumpkin flowers",
+            "mustard oil",
+            "turmeric",
+            "tomato"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Mishti Chholar Dal",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Chana dal",
+            "fresh coconut",
+            "ginger",
+            "cinnamon",
+            "raisins"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Pakhala",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Curd",
+            "cooked rice",
+            "curry leaves",
+            "dry chilli"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Pani Pitha",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Tea leaves",
+            "white sesame seeds",
+            "dry coconut",
+            "soaked rice"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Payokh",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Basmati rice",
+            "rose water",
+            "sugar",
+            "clarified butter",
+            "cardamom pods"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Prawn malai curry",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Coconut milk",
+            "prawns",
+            "garlic",
+            "turmeric",
+            "sugar"
+        ],
+        "course": "main course",
+        "diet": "non vegetarian",
+        "prep_time": 15,
+        "cook_time": 50,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Red Rice",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Red pepper",
+            "red onion",
+            "butter",
+            "watercress",
+            "olive oil"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Shukto",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Green beans",
+            "bitter gourd",
+            "ridge gourd",
+            "banana",
+            "brinjal"
+        ],
+        "course": "main course",
+        "diet": "vegetarian",
+        "prep_time": 10,
+        "cook_time": 20,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Til Pitha",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Glutinous rice",
+            "black sesame seeds",
+            "gur"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 5,
+        "cook_time": 30,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Bebinca",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Coconut milk",
+            "egg yolks",
+            "clarified butter",
+            "all purpose flour"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 60,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Shufta",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Cottage cheese",
+            "dry dates",
+            "dried rose petals",
+            "pistachio",
+            "badam"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Mawa Bati",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Milk powder",
+            "dry fruits",
+            "arrowroot powder",
+            "all purpose flour"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": 20,
+        "cook_time": 45,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    },
+    {
+        "name": "Pinaca",
+        "cuisine": "Indian",
+        "ingredients": [
+            "Brown rice",
+            "fennel seeds",
+            "grated coconut",
+            "black pepper",
+            "ginger powder"
+        ],
+        "course": "dessert",
+        "diet": "vegetarian",
+        "prep_time": -1,
+        "cook_time": -1,
+        "instructions": "",
+        "nutrition": {
+            "calories": null,
+            "protein_g": null,
+            "fat_g": null,
+            "carbs_g": null
+        }
+    }
+]
